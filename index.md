@@ -1,1 +1,1 @@
-[Instalación Xenial](Instalacion_Xenial.md) hola
+[Instalación Xenial](Instalacion_Xenial.md)
