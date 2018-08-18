@@ -25,4 +25,4 @@ Para ver la quota. En el directorio del usuario:
     $ fs -q 
 
 ---
-Modificado: 2018-08-18
+_Modificado: 2018-08-18_
