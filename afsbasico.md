@@ -22,7 +22,7 @@ Para descartar el token:
     
 Para ver la quota. En el directorio del usuario:      
     
-    $ fs -q 
+    $ fs q 
 
 ---
 _Modificado: 2018-08-18_
